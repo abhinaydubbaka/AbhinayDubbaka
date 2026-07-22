@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 ```yaml
-Languages: Python, C, SQL  
+Languages: java,python,c,sql
 Core: Data Structures & Algorithms  
 Tools: Git, GitHub, VS Code  
 Libraries: NumPy, Pandas (Learning)
